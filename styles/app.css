@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-size: 15px;
+}
+
+button:focus,
+button:active {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+@media (max-width: 1199px) {
+  body {
+    font-size: 13px;
+  }
+}
