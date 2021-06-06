@@ -1,16 +1,16 @@
 <template>
   <div class="home-page page-wrapper">
-    <Exercise2/>
+    <Exercise1/>
   </div>
 </template>
 
 <script>
-import Exercise2 from '@/sections/Exercise2';
+import Exercise1 from '@/exercise1/Exercise1';
 
 export default {
   name: "Home",
   components: {
-    Exercise2,
+    Exercise1,
   }
 }
 </script>

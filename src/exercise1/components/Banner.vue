@@ -9,7 +9,7 @@
 </template>
 
 <script>
-import Overlay from '@/components/Overlay';
+import Overlay from '@/exercise1/components/Overlay';
 
 export default {
   name: "Banner",

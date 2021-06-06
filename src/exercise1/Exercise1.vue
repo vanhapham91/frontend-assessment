@@ -7,8 +7,8 @@
 	</div>
 </template>
 <script>
-import Banner from '@/components/Banner';
-import CardList from '@/components/CardList';
+import Banner from '@/exercise1/components/Banner';
+import CardList from '@/exercise1/components/CardList';
 import SectionWrapper from '@/components/SectionWrapper';
 
 export default {

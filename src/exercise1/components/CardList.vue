@@ -8,7 +8,7 @@
 	</div>
 </template>
 <script>
-import Card from "@/components/Card";
+import Card from "@/exercise1/components/Card";
 
 export default {
   name: "CardList",

@@ -12,7 +12,7 @@
   </div>
 </template>
 <script>
-import ButtonLink from "@/components/ButtonLink";
+import ButtonLink from "@/exercise1/components/ButtonLink";
 export default {
 	name: "Card",
   components: {ButtonLink},
